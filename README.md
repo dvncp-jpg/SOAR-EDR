@@ -5,13 +5,16 @@
 
 ### Skills Learned
   - Making a playbook on how to isolate the machine
-  - Setting up a cloud server using Vultr
-  -
-  -
+  - Automation & Workflow Engineering
+  - Endpoint Forensic Analysis
+  - Scripting & Data Parsing
+  - Detection Engineering
 
 ### Tools Used
   - Vultr
   - LimaCharlie
   - Slack
   - Tines
-  
+
+### Steps
+  https://imgur.com/g379m2B
