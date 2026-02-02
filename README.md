@@ -27,8 +27,9 @@ Created a cloud server on Vultr and added Firewall: <br/>
 <img src="https://imgur.com/yi9BnAP.png" alt="Elastic Badge" style="height: 360px;" /> <br/>
 <br/>
 <br/>
-Downloaded LimaCharlie to the server and confirming it is connected: <br/>
+Downloaded LimaCharlie and LaZagne to the server and confirming it is connected: <br/>
 <img src="https://imgur.com/qoTp8VX.png" alt="Elastic Badge" style="height: 360px;" /> <br/>
+<img src="https://imgur.com/a5HFZ3h.png" alt="Elastic Badge" style="height: 360px;" /> <br/>
 <img src="https://imgur.com/mzi7bN2.png" alt="Elastic Badge" style="height: 360px;" /> <br/>
 <br/>
 <br/>
@@ -52,7 +53,7 @@ After choosing "Yes" on isolating the machine, these alerts are sent automatical
 <img src="https://imgur.com/8NW4u5k.png" alt="Elastic Badge" style="height: 360px;" /> <br/>
 <br/>
 <br/>
-If they chose not to isolate the device, this message will then be sent to Slack: <br/>
+If they chose not to isolate the machine, this message will then be sent to Slack: <br/>
 <img src="https://imgur.com/iRHnN15.png" alt="Elastic Badge" style="height: 360px;" /> <br/>
 <br/>
 <br/>
